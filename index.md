@@ -6,7 +6,7 @@
 <pre style="text-align:center;">
 انگیزه نامه
 سیده فاطمه رستمیان
-رشته مهندسی کامپیوتر 
+رشته فناوری اطلاعات 
 </pre>
 <p style="text-align:center;">
 اهداف و انگیزه

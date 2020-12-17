@@ -1,7 +1,7 @@
 
 <title>انگیزه نامه</title>
 
-<body style="background-color:pink;">
+<body style="background-color:powerblue;">
 <h1 style="text-align:center;">به نام خدا</h1>
 <pre style="text-align:center;">
 انگیزه نامه
